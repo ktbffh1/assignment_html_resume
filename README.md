@@ -57,3 +57,20 @@
   </tr>
  </table>
 </section>
+<section>
+ <h2>EDUCATION</h2>
+ <table>
+  <tr>
+   <td>Time</td>
+   <td>School</td>
+   <td>Location</td>
+   <td>Degree Earned</td>
+  </tr>
+  <tr>
+   <td>2015</td>
+   <td>St. Clair College</td>
+   <td>Windsor, ON</td>
+   <td>Public Relations Diploma</td>
+  </tr>
+ </table>
+</section>
